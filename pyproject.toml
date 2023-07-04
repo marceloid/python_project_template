@@ -5,7 +5,7 @@ description = "Projeto modelo para Python"
 authors = ["João Marcelo <joaomarceloav@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.11"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
